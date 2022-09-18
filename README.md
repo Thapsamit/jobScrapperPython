@@ -1,4 +1,4 @@
-##Install beautifulsoup
+## Install beautifulsoup
 ---> pip install beautifulsoup4
 ##Need a parser to specify the type of methods
 ---> pip install lxml
